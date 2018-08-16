@@ -12,6 +12,7 @@ namespace ProjetoGit
         {
             Console.WriteLine("Olá mundo!");
             Console.WriteLine("Boa tarde, Michael!");
+            Console.WriteLine("Como você está hoje?");
             Console.ReadKey();
         }
     }
